@@ -1,0 +1,1 @@
+var result = navigator.serviceWorker.register('sw.js', {scope: '/todolist/'});
